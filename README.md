@@ -33,12 +33,13 @@ This app displays a list of scavenger hunt tasks. For each task, the user can:
 
 ---
 
-## 🎥 Walkthrough
+## 🎥 App Walkthrough
 
-A full walkthrough with screenshots is available in the file:  
-📄 [`Semen_Kolesnykov_ScavengerHunt_Walkthrough.docx`](Semen_Kolesnykov_ScavengerHunt_Walkthrough.docx)
+> **Note:** Unfortunately, this is the only form of demonstration I can provide. I’ve been working exclusively on FIU library computers, which in 95% of cases failed to run iOS simulators due to extremely outdated and underpowered hardware. Additionally, these machines do not allow installation of third-party recording software such as OBS or screen capture tools.  
+>  
+> I have included screenshots and GIF walkthroughs with detailed code explanations to demonstrate the app’s core functionality.
 
-*If required, a video walkthrough can also be added here.*
+![Walkthrough](scavangerHunt.gif)
 
 ---
 
@@ -56,4 +57,4 @@ A full walkthrough with screenshots is available in the file:
 - [x] App builds and runs on simulator
 - [x] Code is available in this repository
 - [x] Walkthrough screenshots are included
-- [ ] (Optional) Video walkthrough uploaded
+- [x] Walkthrough GIF included
